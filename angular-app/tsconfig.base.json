@@ -1,5 +1,5 @@
 {
-  "compileOnSave": false,
+  "compileOnSave": true,
   "angularCompilerOptions": {
     "strictTemplates": true,
     "strictInjectionParameters": true
